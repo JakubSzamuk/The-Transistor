@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+body {
+  background: white;
+  overflow-x: hidden;
+}
+
+@media (max-height: 890px) {
+  .hideIfSmall {
+    visibility: collapse;
+  }
+  body {
+    background: white;
+  }
+}
+@media (max-width: 890px) {
+  .hideIfSmall {
+    visibility: collapse;
+  }
+}
+@media (max-height: 890px) {
+  .hideIfSmallNot {
+    visibility: hidden;
+  }
+  .notSmallWide {
+    width: 95%;
+  }
+}
+@media (max-width: 890px) {
+  .hideIfSmallNot {
+    visibility: hidden;
+  }
+}
+.App {
+  width: 100vw;
+  height: 104vh;
+}
+.anim { 
+  height: 100vh;
+  width: 100vw;
+}
+.textFont {
+  font-family: 'Space Mono', monospace;
+  pointer-events: none;
+}
+.animateOn {
+  transform: translateX(-20%);
+  transition: all 0.5s;
+}
+.visibilityVisible {
+  transform: translateX(20%);
+}
+.tutorial {
+  transition: all 0.5s;
+  pointer-events: none;
+}
+.clickable {
+  transition: all 0.4s;
+  transform: scale(100%);
+}
+.clickable:focus {
+  transform: scale(90%);
+}
