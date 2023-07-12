@@ -20,12 +20,9 @@ Overall a really interesting project, with some bugs along the way but all in al
 ------------------------------
 # Screenshots of the website:
 
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/9252324b-518b-47e8-8890-bd7c88be76a0)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/1face8ff-d6f7-4c22-8b04-b0bcee87e4b9)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/ee868fcd-d93b-4948-b30d-67d1d627a73c)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/7b6c757a-7698-4070-ba7d-9a2c28196a25)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/ec5ee591-6d19-4b43-9227-375bc6aa3caa)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/8e81673a-891e-47c3-a817-7e9f852bd261)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/1f6ac257-93fc-4baa-b6ac-ea5a08529e31)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/438ccef6-43ff-40a5-87d3-98faf08dc060)
-![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/b69185f2-6e10-4871-b825-4d2b7fe5df8e)
+![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/23a5a687-9451-4273-a51a-bbc07cec98cf)
+![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/e970f391-f0bc-43d8-abe4-a2487266d813)
+![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/91f0594e-8ac5-4816-9248-adcfe96b699d)
+![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/75a5abfe-456c-4397-b2d5-1f090e9ec38b)
+![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/9fc04284-222b-42e6-95ba-ffc950494325)
+![image](https://github.com/JakubSzamuk/The-Transistor/assets/127598330/3c7250e4-d6a4-4aa8-8d95-07c3b2eb446e)
